@@ -5,4 +5,4 @@
 ***
 
 > this script allows you to easily download videos of [Youtube](https://www.youtube.com/).  
-> I used youtube-dl to make this script
+> (I used youtube-dl to make this script)
